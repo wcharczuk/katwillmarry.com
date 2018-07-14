@@ -1,0 +1,139 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "WwFqIQR2/0KeA9/txRiAd5cXJ70=",
+			"path": "cloud.google.com/go/compute/metadata",
+			"revision": "e11d9d1a1722e191d3d017c08077f2c15189769a",
+			"revisionTime": "2017-06-13T14:27:07Z"
+		},
+		{
+			"checksumSHA1": "DpSii9QD8+qNJ8PpDvK8ACSxnA0=",
+			"path": "github.com/blend/go-sdk/assert",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "rbEXCBr2XnyuNN7in2nTKFkd2NE=",
+			"path": "github.com/blend/go-sdk/configutil",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "6uZtbeRPhHePhJ0OxTYsuprb6rY=",
+			"path": "github.com/blend/go-sdk/db",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "b5gAm2kkFijKSaKSElAN7L98Uy0=",
+			"path": "github.com/blend/go-sdk/env",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "QMYU5Jv7yne887H48n4L2V1WkXw=",
+			"path": "github.com/blend/go-sdk/exception",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "67UTUXW/Mn5ssv4DauTbJQjurSw=",
+			"path": "github.com/blend/go-sdk/logger",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "+iuM+c0yx4nHeiTdpRYsx31QNxE=",
+			"path": "github.com/blend/go-sdk/oauth",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "VjwOnEzljBlHhUAivSpx/qyZ4hY=",
+			"path": "github.com/blend/go-sdk/request",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "+f5IntT0YyQD3PBgysTlkF5fJCY=",
+			"path": "github.com/blend/go-sdk/util",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "aGxFZT5x1FMzjKbNMV6Nyu0zDak=",
+			"path": "github.com/blend/go-sdk/uuid",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "XqbiSpYFSVtxhnL8HC8v7+/7Pi4=",
+			"path": "github.com/blend/go-sdk/web",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "rtnWmH56z2f0ThbbBcVRpc5S+HU=",
+			"path": "github.com/blend/go-sdk/yaml",
+			"revision": "f8e51d5f959bdb3d7a074a3ad8f064a24c5170e4",
+			"revisionTime": "2018-07-12T19:23:31Z"
+		},
+		{
+			"checksumSHA1": "ZGXubONzoAA9hinF2141mvUCk78=",
+			"path": "github.com/lib/pq",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "wRLo86qqt/7IwI8X43IjXLvveU0=",
+			"path": "golang.org/x/net/context",
+			"revision": "5f9ae10d9af5b1c89ae6904293b14b064d4ada23",
+			"revisionTime": "2018-04-20T07:04:21Z"
+		},
+		{
+			"checksumSHA1": "EFv2fHTe/0194O+Zs+z8wp+GQLk=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "5f9ae10d9af5b1c89ae6904293b14b064d4ada23",
+			"revisionTime": "2018-04-20T07:04:21Z"
+		},
+		{
+			"checksumSHA1": "xny5uscAcMxGynb30y2c31i6N3o=",
+			"path": "golang.org/x/oauth2",
+			"revision": "f047394b6d14284165300fd82dad67edb3a4d7f6",
+			"revisionTime": "2017-05-17T17:14:19Z"
+		},
+		{
+			"checksumSHA1": "H8XSmOzsbnEffiPnJ7zgZ6ybJ5s=",
+			"path": "golang.org/x/oauth2/google",
+			"revision": "f047394b6d14284165300fd82dad67edb3a4d7f6",
+			"revisionTime": "2017-05-17T17:14:19Z"
+		},
+		{
+			"checksumSHA1": "/Wb/jt/L0dt8v6lEDWX1txg57h8=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "f047394b6d14284165300fd82dad67edb3a4d7f6",
+			"revisionTime": "2017-05-17T17:14:19Z"
+		},
+		{
+			"checksumSHA1": "z2RfcWtCJ4iOnUAVwD0CkT/kRrU=",
+			"path": "golang.org/x/oauth2/jws",
+			"revision": "f047394b6d14284165300fd82dad67edb3a4d7f6",
+			"revisionTime": "2017-05-17T17:14:19Z"
+		},
+		{
+			"checksumSHA1": "5sfz2ksZUDiIPHSNNR6oU5OD3jg=",
+			"path": "golang.org/x/oauth2/jwt",
+			"revision": "f047394b6d14284165300fd82dad67edb3a4d7f6",
+			"revisionTime": "2017-05-17T17:14:19Z"
+		}
+	],
+	"rootPath": "github.com/wcharczuk/katwillmarry.com"
+}
